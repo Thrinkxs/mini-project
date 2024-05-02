@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AuckYv2rr60MpZ7ldXvFCXF30HBAL0sMaw/sj+5OQkcPSb4hbE5AzAIdIa6m/s86WltfA3WF4DtAkF4AzI31DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\Projects\\Enversoft\\Exercise-2\\Exercise-2\\Exercise-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\csvhelper\\32.0.1\\csvhelper.32.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

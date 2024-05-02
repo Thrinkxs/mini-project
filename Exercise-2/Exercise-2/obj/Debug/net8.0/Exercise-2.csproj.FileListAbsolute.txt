@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\bin\Debug\net8.0\Exercise-2.exe
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\bin\Debug\net8.0\Exercise-2.deps.json
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\bin\Debug\net8.0\Exercise-2.runtimeconfig.json
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\bin\Debug\net8.0\Exercise-2.dll
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\bin\Debug\net8.0\Exercise-2.pdb
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\obj\Debug\net8.0\Exercise-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\obj\Debug\net8.0\Exercise-2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\obj\Debug\net8.0\Exercise-2.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\obj\Debug\net8.0\Exercise-2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\obj\Debug\net8.0\Exercise-2.dll
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\obj\Debug\net8.0\refint\Exercise-2.dll
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\obj\Debug\net8.0\Exercise-2.pdb
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\obj\Debug\net8.0\Exercise-2.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\obj\Debug\net8.0\ref\Exercise-2.dll
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\obj\Debug\net8.0\Exercise-2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\LENOVO\Documents\Projects\Enversoft\exercise-2\exercise-2\obj\Debug\net8.0\Exercise-2.csproj.Up2Date
